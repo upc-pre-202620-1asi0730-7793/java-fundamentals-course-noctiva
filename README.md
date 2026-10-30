@@ -41,10 +41,10 @@ Cada ejercicio es independiente. Abre un solo `Main.java` a la vez. Para ejecuta
 ### Lección 3: Operadores y expresiones (6 minutos)
 
 - **Descripción:** realiza operaciones matemáticas y compara resultados usando notas escolares.
-- **Video de YouTube no listado:** colocar enlace.
+- **Video de YouTube no listado:** [Ver la lección](https://youtu.be/g5CNWxKHbvc).
 - **Conclusiones clave:** operadores aritméticos y de comparación; división decimal; diferencia entre `=` y `==`.
 - **Práctica:** calcular el promedio de 14, 16 y 18 y comprobar si supera 15.
-- **Editor online precargado:** colocar enlace.
+- **Editor online precargado:** [Resolver el ejercicio en JDoodle](https://www.jdoodle.com/ga/pxxq-eh6c-yfa7).
 
 ### Lección 4: Condicionales if-else (6 minutos)
 
