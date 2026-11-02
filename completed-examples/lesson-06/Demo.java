@@ -1,4 +1,4 @@
-// Lección 6: Código utilizado durante la demostración[cite: 2].
+// Lección 6: Código utilizado durante la demostración.
 // Para ejecutarlo en un editor online que requiere Main, copia el
 // contenido en Main.java y cambia "class Demo" por "class Main".
 import java.util.Scanner;
