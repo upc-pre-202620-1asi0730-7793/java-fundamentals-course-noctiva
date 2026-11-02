@@ -57,18 +57,18 @@ Cada ejercicio es independiente. Abre un solo `Main.java` a la vez. Para ejecuta
 ### Lección 5: Bucles for y while (6 minutos)
 
 - **Descripción:** repite instrucciones utilizando bucles.
-- **Video de YouTube no listado:** colocar enlace.
+- **Video de YouTube no listado:** https://youtu.be/XbdLZP2kk6Y.
 - **Conclusiones clave:** inicialización, condición y actualización; evitar bucles infinitos.
 - **Práctica:** completar la actividad de repetición de la lección.
-- **Editor online precargado:** colocar enlace.
+- **Editor online precargado:** https://www.jdoodle.com/ia/fjgq-urts-u4su
 
 ### Lección 6: Métodos, parámetros y Scanner (6 minutos)
 
 - **Descripción:** organiza instrucciones en métodos y recibe datos desde la consola.
-- **Video de YouTube no listado:** colocar enlace.
+- **Video de YouTube no listado:** 
 - **Conclusiones clave:** métodos, parámetros y entrada de datos con `Scanner`.
 - **Práctica:** completar la actividad de métodos y entrada de datos.
-- **Editor online precargado:** colocar enlace.
+- **Editor online precargado:** 
 
 ### Lección 7: Clases, objetos y constructores (6 minutos)
 
