@@ -65,10 +65,10 @@ Cada ejercicio es independiente. Abre un solo `Main.java` a la vez. Para ejecuta
 ### Lección 6: Métodos, parámetros y Scanner (6 minutos)
 
 - **Descripción:** organiza instrucciones en métodos y recibe datos desde la consola.
-- **Video de YouTube no listado:** https://youtu.be/yObKF17T-SM?si=_ZDCVwvjrRNzQ8jS
+- **Video de YouTube no listado:** 
 - **Conclusiones clave:** métodos, parámetros y entrada de datos con `Scanner`.
 - **Práctica:** completar la actividad de métodos y entrada de datos.
-- **Editor online precargado:** https://www.jdoodle.com/ia/yvuv-ehv6-x3yh
+- **Editor online precargado:** 
 
 ### Lección 7: Clases, objetos y constructores (6 minutos)
 
