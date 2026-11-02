@@ -49,7 +49,7 @@ Cada ejercicio es independiente. Abre un solo `Main.java` a la vez. Para ejecuta
 ### Lección 4: Condicionales if-else (6 minutos)
 
 - **Descripción:** selecciona acciones según una condición.
-- **Video de YouTube no listado:** colocar enlace.
+- **Video de YouTube no listado:** [Ver la lección](https://youtu.be/KQOvuFx5nD0?si=rlh9mQI8bfxlbPCu).
 - **Conclusiones clave:** usar `if`, `else if` y `else` para clasificar notas.
 - **Práctica:** mostrar Sobresaliente desde 18, Aprobado desde 13 y Desaprobado en los demás casos. Estos umbrales son reglas del ejercicio.
 - **Editor online precargado:** colocar enlace.
