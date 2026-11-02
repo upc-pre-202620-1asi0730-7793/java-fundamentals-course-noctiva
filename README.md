@@ -73,18 +73,18 @@ Cada ejercicio es independiente. Abre un solo `Main.java` a la vez. Para ejecuta
 ### Lección 7: Clases, objetos y constructores (6 minutos)
 
 - **Descripción:** representa estudiantes mediante clases y objetos.
-- **Video de YouTube no listado:** colocar enlace.
+- **Video de YouTube no listado:** [Ver la lección](https://youtu.be/tFqH6rZB52Q).
 - **Conclusiones clave:** atributos, métodos, instanciación y constructores.
 - **Práctica:** crear los estudiantes Carlos y Lucía y llamar a su método `presentarse()`.
-- **Editor online precargado:** colocar enlace.
+- **Editor online precargado:** [Resolver el ejercicio en JDoodle](https://www.jdoodle.com/ga/pxxq-eh6c-yfa7).
 
 ### Lección 8: Encapsulación, getters y setters (6 minutos)
 
 - **Descripción:** controla el acceso y la modificación de los datos de un objeto.
-- **Video de YouTube no listado:** colocar enlace.
+- **Video de YouTube no listado:** [Ver la lección](https://youtu.be/Y-kfadUiMLo).
 - **Conclusiones clave:** atributos privados, getters, setters y validación de valores.
 - **Práctica:** agregar un nombre privado al estudiante y modificarlo mediante un setter.
-- **Editor online precargado:** colocar enlace.
+- **Editor online precargado:** [Resolver el ejercicio en JDoodle](https://www.jdoodle.com/ga/pxxq-eh6c-yfa7).
 
 ### Lección 9: Arrays y cadenas de texto (6 minutos)
 
@@ -108,7 +108,7 @@ Cada ejercicio es independiente. Abre un solo `Main.java` a la vez. Para ejecuta
 - **completed-examples/**: demostraciones y soluciones, separadas por lección.
 - **scripts/**: guiones y planificación de las lecciones.
 
-Los materiales de las lecciones 03 y 04 están disponibles. Los demás integrantes incorporarán los materiales de sus lecciones y registrarán sus propios aportes mediante commits en sus cuentas personales.
+Los materiales de las lecciones 03, 04, 07 y 08 están disponibles. Los demás integrantes incorporarán los materiales de sus lecciones y registrarán sus propios aportes mediante commits en sus cuentas personales.
 
 ## Elaboración
 
@@ -127,7 +127,5 @@ NRC 7793
 | Salcedo Correa, Carlos Matthew | 1 y 2 | 12 minutos |
 | Cano Gomez, Yam Antony | 3 y 4 | 12 minutos |
 | Patricio Farias, Ana Camila | 5 y 6 | 12 minutos |
-| Ramirez Rodriguez, Mauricio Joao | 7 y 8 | 12 minutos |
+| Ramirez Rodriguez, Mauricio Joao | 7 y 8 | 11 minutos |
 | Dextre Flores, Leonardo Felix | 9 y 10 | 12 minutos |
-
-La tabla indica la distribución del trabajo. La evidencia de realización se registrará en los commits y entregables de cada integrante.
