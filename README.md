@@ -52,7 +52,7 @@ Cada ejercicio es independiente. Abre un solo `Main.java` a la vez. Para ejecuta
 - **Video de YouTube no listado:** [Ver la lección](https://youtu.be/KQOvuFx5nD0?si=rlh9mQI8bfxlbPCu).
 - **Conclusiones clave:** usar `if`, `else if` y `else` para clasificar notas.
 - **Práctica:** mostrar Sobresaliente desde 18, Aprobado desde 13 y Desaprobado en los demás casos. Estos umbrales son reglas del ejercicio.
-- **Editor online precargado:** colocar enlace.
+- **Editor online precargado:** [Resolver el ejercicio en JDoodle](https://www.jdoodle.com/ga/grd3-93tz-zpgt).
 
 ### Lección 5: Bucles for y while (6 minutos)
 
