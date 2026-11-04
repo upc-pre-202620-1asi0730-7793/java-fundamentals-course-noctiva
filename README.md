@@ -89,18 +89,18 @@ Cada ejercicio es independiente. Abre un solo `Main.java` a la vez. Para ejecuta
 ### Lección 9: Arrays y cadenas de texto (6 minutos)
 
 - **Descripción:** agrupa nombres de estudiantes y procesa sus textos con un bucle.
-- **Video de YouTube no listado:** colocar enlace.
+- **Video de YouTube no listado:** https://youtu.be/m_lJv_BuoaM
 - **Conclusiones clave:** índices desde cero, recorrido de arrays y diferencia entre `array.length` y `texto.length()`.
 - **Práctica:** almacenar cinco nombres y mostrar la cantidad de caracteres de cada uno.
-- **Editor online precargado:** colocar enlace.
+- **Editor online precargado:** https://www.jdoodle.com/ga/7dq6-rmt8-dmgz
 
 ### Lección 10: Proyecto final: Registro de estudiantes (6 minutos)
 
 - **Descripción:** integra clases, objetos, arrays, bucles y condicionales en un registro escolar.
-- **Video de YouTube no listado:** colocar enlace.
+- **Video de YouTube no listado:** https://youtu.be/tsW2fHdwt9E
 - **Conclusiones clave:** organizar el programa, validar notas y utilizar nombres claros.
 - **Práctica:** agregar dos estudiantes al registro y comprobar los cinco resultados; opcionalmente probar una nota inválida.
-- **Editor online precargado:** colocar enlace.
+- **Editor online precargado:** https://www.jdoodle.com/ga/b8zk-daxd-3pmh
 
 ## Recursos y estructura del código
 
