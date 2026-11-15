@@ -28,7 +28,7 @@ Cada ejercicio es independiente. Abre un solo `Main.java` a la vez. Para ejecuta
 - **Video de YouTube no listado:** colocar enlace.
 - **Conclusiones clave:** un programa contiene instrucciones; `main` inicia la ejecución y `System.out.println` muestra mensajes.
 - **Práctica:** escribir y ejecutar un mensaje en consola.
-- **Editor online precargado:** colocar enlace.
+- **Editor online precargado:** [Resolver el ejercicio en JDoodle](https://www.jdoodle.com/ga/asa2-8stc-tk5f).
 
 ### Lección 2: Variables y tipos de datos (6 minutos)
 
@@ -36,7 +36,7 @@ Cada ejercicio es independiente. Abre un solo `Main.java` a la vez. Para ejecuta
 - **Video de YouTube no listado:** colocar enlace.
 - **Conclusiones clave:** utilizar `String`, `int`, `double` y `boolean` según el dato.
 - **Práctica:** crear un perfil escolar con nombre, edad, grado y promedio.
-- **Editor online precargado:** colocar enlace.
+- **Editor online precargado:** [Resolver el ejercicio en JDoodle](https://www.jdoodle.com/ga/bb4j-f4qp-njur).
 
 ### Lección 3: Operadores y expresiones (6 minutos)
 
