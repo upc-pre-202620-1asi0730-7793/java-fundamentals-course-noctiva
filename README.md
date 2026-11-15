@@ -22,7 +22,7 @@ Cada ejercicio es independiente. Abre un solo `Main.java` a la vez. Para ejecuta
 
 ## Secuencia de lecciones
 
-### Lección 1: Tu primer programa en Java (6 minutos)
+### Lección 1: Tu primer programa en Java (2 minutos 52 segundos)
 
 - **Descripción:** descubre qué es Java y ejecuta tu primer programa en un editor online.
 - **Video de YouTube no listado:** [Ver la lección](https://youtu.be/2G_V6oEWKrA).
@@ -30,7 +30,7 @@ Cada ejercicio es independiente. Abre un solo `Main.java` a la vez. Para ejecuta
 - **Práctica:** escribir y ejecutar un mensaje en consola.
 - **Editor online precargado:** [Resolver el ejercicio en JDoodle](https://www.jdoodle.com/ga/asa2-8stc-tk5f).
 
-### Lección 2: Variables y tipos de datos (6 minutos)
+### Lección 2: Variables y tipos de datos (2 minutos 22 segundos)
 
 - **Descripción:** almacena y muestra información de un estudiante con variables.
 - **Video de YouTube no listado:** [Ver la lección](https://youtu.be/IrN6KuatnPw).
@@ -124,7 +124,7 @@ NRC 7793
 
 | Integrante | Lecciones asignadas | Duración |
 | --- | --- | --- |
-| Salcedo Correa, Carlos Matthew | 1 y 2 | 12 minutos |
+| Salcedo Correa, Carlos Matthew | 1 y 2 | 5 minutos 14 segundos |
 | Cano Gomez, Yam Antony | 3 y 4 | 12 minutos |
 | Patricio Farias, Ana Camila | 5 y 6 | 12 minutos |
 | Ramirez Rodriguez, Mauricio Joao | 7 y 8 | 11 minutos |

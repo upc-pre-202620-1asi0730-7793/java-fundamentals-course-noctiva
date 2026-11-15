@@ -1,16 +1,16 @@
-# Lección 2 — Variables y tipos de datos (6 minutos)
+# Lección 2 — Variables y tipos de datos (2 minutos 22 segundos)
 
 **Objetivo:** almacenar, modificar y mostrar datos de un estudiante utilizando variables en Java.  
 **Público:** estudiantes de 12 a 17 años sin experiencia previa.  
 **Herramienta:** editor Java online gratuito, sin instalación.
 
-## 00:00–03:00 | Introducción y conceptos (diapositivas)
+## 00:00–01:10 | Introducción y conceptos (diapositivas)
 
-- **00:00–01:00:** Portada «Lección 2: Variables y tipos de datos». Presentar las variables como cajas etiquetadas (`nombre`, `edad`, `nota`) para guardar información en un sistema escolar.
-- **01:00–02:15:** Explicar los cuatro tipos de datos básicos: `String` (textos), `int` (números enteros), `double` (números decimales) y `boolean` (`true` o `false`).
-- **02:15–03:00:** Mostrar la sintaxis (`Tipo nombre = valor;`), el uso de comillas solo para textos y la posibilidad de cambiar el valor de una variable durante la ejecución.
+- **00:00–00:25:** Portada «Lección 2: Variables y tipos de datos». Presentar las variables como cajas etiquetadas (`nombre`, `edad`, `nota`) para guardar información en un sistema escolar.
+- **00:25–00:50:** Explicar los cuatro tipos de datos básicos: `String` (textos), `int` (números enteros), `double` (números decimales) y `boolean` (`true` o `false`).
+- **00:50–01:10:** Mostrar la sintaxis (`Tipo nombre = valor;`), el uso de comillas solo para textos y la posibilidad de cambiar el valor de una variable durante la ejecución.
 
-## 03:00–05:00 | Demostración en el editor Java online
+## 01:10–01:55 | Demostración en el editor Java online
 
 Escribir progresivamente el programa del archivo `../completed-examples/lesson-02/Demo.java` (en el editor, usar `public class Main`).
 
@@ -28,7 +28,7 @@ Nota: 17.5
 Matriculado: true
 ```
 
-## 05:00–06:00 | Práctica y cierre
+## 01:55–02:22 | Práctica y cierre
 
 **Desafío:** crear un perfil escolar declarando `nombre`, `edad`, `grado` y `promedio`, y mostrarlos en consola. Invitar a pausar el video y completar `../starter-files/lesson-02/Main.java`.
 
