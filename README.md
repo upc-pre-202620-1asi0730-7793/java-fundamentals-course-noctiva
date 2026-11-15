@@ -25,7 +25,7 @@ Cada ejercicio es independiente. Abre un solo `Main.java` a la vez. Para ejecuta
 ### Lección 1: Tu primer programa en Java (6 minutos)
 
 - **Descripción:** descubre qué es Java y ejecuta tu primer programa en un editor online.
-- **Video de YouTube no listado:** colocar enlace.
+- **Video de YouTube no listado:** [Ver la lección](https://youtu.be/2G_V6oEWKrA).
 - **Conclusiones clave:** un programa contiene instrucciones; `main` inicia la ejecución y `System.out.println` muestra mensajes.
 - **Práctica:** escribir y ejecutar un mensaje en consola.
 - **Editor online precargado:** [Resolver el ejercicio en JDoodle](https://www.jdoodle.com/ga/asa2-8stc-tk5f).
@@ -33,7 +33,7 @@ Cada ejercicio es independiente. Abre un solo `Main.java` a la vez. Para ejecuta
 ### Lección 2: Variables y tipos de datos (6 minutos)
 
 - **Descripción:** almacena y muestra información de un estudiante con variables.
-- **Video de YouTube no listado:** colocar enlace.
+- **Video de YouTube no listado:** [Ver la lección](https://youtu.be/IrN6KuatnPw).
 - **Conclusiones clave:** utilizar `String`, `int`, `double` y `boolean` según el dato.
 - **Práctica:** crear un perfil escolar con nombre, edad, grado y promedio.
 - **Editor online precargado:** [Resolver el ejercicio en JDoodle](https://www.jdoodle.com/ga/bb4j-f4qp-njur).
