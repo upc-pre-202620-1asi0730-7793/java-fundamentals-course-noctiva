@@ -25,26 +25,26 @@ Cada ejercicio es independiente. Abre un solo `Main.java` a la vez. Para ejecuta
 ### Lección 1: Tu primer programa en Java (2 minutos 52 segundos)
 
 - **Descripción:** descubre qué es Java y ejecuta tu primer programa en un editor online.
-- **Video de YouTube no listado:** [Ver la lección](https://youtu.be/2G_V6oEWKrA).
+- **Video de YouTube no listado:** https://youtu.be/2G_V6oEWKrA
 - **Conclusiones clave:** un programa contiene instrucciones; `main` inicia la ejecución y `System.out.println` muestra mensajes.
 - **Práctica:** escribir y ejecutar un mensaje en consola.
-- **Editor online precargado:** [Resolver el ejercicio en JDoodle](https://www.jdoodle.com/ga/asa2-8stc-tk5f).
+- **Editor online precargado:** https://www.jdoodle.com/ga/asa2-8stc-tk5f
 
 ### Lección 2: Variables y tipos de datos (2 minutos 22 segundos)
 
 - **Descripción:** almacena y muestra información de un estudiante con variables.
-- **Video de YouTube no listado:** [Ver la lección](https://youtu.be/IrN6KuatnPw).
+- **Video de YouTube no listado:** https://youtu.be/IrN6KuatnPw
 - **Conclusiones clave:** utilizar `String`, `int`, `double` y `boolean` según el dato.
 - **Práctica:** crear un perfil escolar con nombre, edad, grado y promedio.
-- **Editor online precargado:** [Resolver el ejercicio en JDoodle](https://www.jdoodle.com/ga/bb4j-f4qp-njur).
+- **Editor online precargado:** https://www.jdoodle.com/ga/bb4j-f4qp-njur
 
 ### Lección 3: Operadores y expresiones (6 minutos)
 
 - **Descripción:** realiza operaciones matemáticas y compara resultados usando notas escolares.
-- **Video de YouTube no listado:** [Ver la lección](https://youtu.be/g5CNWxKHbvc).
+- **Video de YouTube no listado:** https://youtu.be/g5CNWxKHbvc
 - **Conclusiones clave:** operadores aritméticos y de comparación; división decimal; diferencia entre `=` y `==`.
 - **Práctica:** calcular el promedio de 14, 16 y 18 y comprobar si supera 15.
-- **Editor online precargado:** [Resolver el ejercicio en JDoodle](https://www.jdoodle.com/ga/pxxq-eh6c-yfa7).
+- **Editor online precargado:** https://www.jdoodle.com/ga/pxxq-eh6c-yfa7
 
 ### Lección 4: Condicionales if-else (6 minutos)
 
@@ -52,12 +52,12 @@ Cada ejercicio es independiente. Abre un solo `Main.java` a la vez. Para ejecuta
 - **Video de YouTube no listado:** [Ver la lección](https://youtu.be/KQOvuFx5nD0?si=rlh9mQI8bfxlbPCu).
 - **Conclusiones clave:** usar `if`, `else if` y `else` para clasificar notas.
 - **Práctica:** mostrar Sobresaliente desde 18, Aprobado desde 13 y Desaprobado en los demás casos. Estos umbrales son reglas del ejercicio.
-- **Editor online precargado:** [Resolver el ejercicio en JDoodle](https://www.jdoodle.com/ga/grd3-93tz-zpgt).
+- **Editor online precargado:** https://www.jdoodle.com/ga/grd3-93tz-zpgt
 
 ### Lección 5: Bucles for y while (6 minutos)
 
 - **Descripción:** repite instrucciones utilizando bucles.
-- **Video de YouTube no listado:** https://youtu.be/XbdLZP2kk6Y.
+- **Video de YouTube no listado:** https://youtu.be/WcnFvWTbcW0
 - **Conclusiones clave:** inicialización, condición y actualización; evitar bucles infinitos.
 - **Práctica:** completar la actividad de repetición de la lección.
 - **Editor online precargado:** https://www.jdoodle.com/ia/fjgq-urts-u4su
@@ -65,7 +65,7 @@ Cada ejercicio es independiente. Abre un solo `Main.java` a la vez. Para ejecuta
 ### Lección 6: Métodos, parámetros y Scanner (6 minutos)
 
 - **Descripción:** organiza instrucciones en métodos y recibe datos desde la consola.
-- **Video de YouTube no listado:** https://youtu.be/yObKF17T-SM?si=zUjme_vu7349IYxU
+- **Video de YouTube no listado:** https://youtu.be/5QltJWXWrSo
 - **Conclusiones clave:** métodos, parámetros y entrada de datos con `Scanner`.
 - **Práctica:** completar la actividad de métodos y entrada de datos.
 - **Editor online precargado:** https://www.jdoodle.com/ia/3vcs-km4e-yv7t
@@ -73,18 +73,18 @@ Cada ejercicio es independiente. Abre un solo `Main.java` a la vez. Para ejecuta
 ### Lección 7: Clases, objetos y constructores (6 minutos)
 
 - **Descripción:** representa estudiantes mediante clases y objetos.
-- **Video de YouTube no listado:** [Ver la lección](https://youtu.be/tFqH6rZB52Q).
+- **Video de YouTube no listado:** https://youtu.be/tFqH6rZB52Q
 - **Conclusiones clave:** atributos, métodos, instanciación y constructores.
 - **Práctica:** crear los estudiantes Carlos y Lucía y llamar a su método `presentarse()`.
-- **Editor online precargado:** [Resolver el ejercicio en JDoodle](https://www.jdoodle.com/ga/pxxq-eh6c-yfa7).
+- **Editor online precargado:** https://www.jdoodle.com/ga/pxxq-eh6c-yfa7
 
 ### Lección 8: Encapsulación, getters y setters (6 minutos)
 
 - **Descripción:** controla el acceso y la modificación de los datos de un objeto.
-- **Video de YouTube no listado:** [Ver la lección](https://youtu.be/Y-kfadUiMLo).
+- **Video de YouTube no listado:** https://youtu.be/Y-kfadUiMLo
 - **Conclusiones clave:** atributos privados, getters, setters y validación de valores.
 - **Práctica:** agregar un nombre privado al estudiante y modificarlo mediante un setter.
-- **Editor online precargado:** [Resolver el ejercicio en JDoodle](https://www.jdoodle.com/ga/pxxq-eh6c-yfa7).
+- **Editor online precargado:** https://www.jdoodle.com/ga/pxxq-eh6c-yfa7
 
 ### Lección 9: Arrays y cadenas de texto (6 minutos)
 
